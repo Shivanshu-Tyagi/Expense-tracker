@@ -7,7 +7,7 @@ This Expense Tracker is a web application built using Vite and React. It helps u
 
 # Features
 - *Add and categorize expenses:* Users can input their expenses and categorize them based on different types (e.g., food, transportation, entertainment).
-- *View expense history:* The app provides a history of all added expenses, including details like date, amount, and category.
+- *View expense history:* The app provides a history of all added expenses, including details like  amount, and category.
 - *Summary and statistics:* Users can view summaries of their expenses and statistics to understand their spending habits better.
 - *Responsive design:* The app is designed to work seamlessly across various devices and screen sizes.
 

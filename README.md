@@ -17,8 +17,8 @@ Navigate to the project directory: cd expense-tracker
  
 
 ```
-yarn install
-yarn start
+npm install
+npm run dev
 ```
 
 ## Usage
